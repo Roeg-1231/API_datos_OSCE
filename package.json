@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Roeg-1231/API_datos_OSCE#readme",
   "dependencies": {
     "cors": "^2.8.5",
+    "express": "^4.21.2",
     "json-serve": "^0.1.0",
     "json-server": "^1.0.0-beta.3"
   }
